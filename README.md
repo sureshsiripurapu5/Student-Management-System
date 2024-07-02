@@ -1,5 +1,5 @@
-![image](![Screenshot (31)](https://github.com/sureshsiripurapu5/Student-Management-System/assets/139056065/2aa26698-0b0d-4f8e-8f23-c8a1cc03767f)
-)
+(![Screenshot (31)](https://github.com/sureshsiripurapu5/Student-Management-System/assets/139056065/2aa26698-0b0d-4f8e-8f23-c8a1cc03767f)
+
 
 
 
