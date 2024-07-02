@@ -8,7 +8,7 @@ Student Management System web application using Spring Boot, Spring MVC, Thymele
 
 ## Features of the Student Management System
 
-# CRUD Operations:
+### CRUD Operations:
 - Create: Add new students to the database.
 - Read: Display a list of all students.
 - Update: Modify existing student details.
