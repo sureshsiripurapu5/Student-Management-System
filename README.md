@@ -53,3 +53,8 @@ Student Management System web application using Spring Boot, Spring MVC, Thymele
 - Thymeleaf
 - Eclipse STS
 
+## Installation Steps
+
+1. Clone the repository to your local machine
+2. Open Spring Tool Suite (STS), import the project as an "Existing Maven Project", and build it using Run As > Maven install.
+3. Right-click the project in STS and select Run As > Spring Boot App, then access the app at http://localhost:8080/students.
